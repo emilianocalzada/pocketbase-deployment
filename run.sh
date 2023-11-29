@@ -1,2 +1,2 @@
 #!/bin/sh
-/pb/pocketbase serve pocketbase.applikuapp.com
+/pb/pocketbase serve --http=0.0.0.0:$PORT
