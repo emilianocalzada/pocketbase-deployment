@@ -1,1 +1,1 @@
-backend: sh backend.sh
+web: sh backend.sh
